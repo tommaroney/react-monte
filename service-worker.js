@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/react-monte/precache-manifest.a9816fa09da3be4e5caf8897624eae72.js"
+  "/react-monte/precache-manifest.b52722bb603dab6bddadbc3af2ed0099.js"
 );
 
 self.addEventListener('message', (event) => {
