@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/react-monte/static/css/main.5bb1bda5.chunk.css",
+    "main.js": "/react-monte/static/js/main.2c4a696f.chunk.js",
+    "main.js.map": "/react-monte/static/js/main.2c4a696f.chunk.js.map",
+    "runtime~main.js": "/react-monte/static/js/runtime~main.f82523dd.js",
+    "runtime~main.js.map": "/react-monte/static/js/runtime~main.f82523dd.js.map",
+    "static/js/2.d6a534e5.chunk.js": "/react-monte/static/js/2.d6a534e5.chunk.js",
+    "static/js/2.d6a534e5.chunk.js.map": "/react-monte/static/js/2.d6a534e5.chunk.js.map",
+    "index.html": "/react-monte/index.html",
+    "precache-manifest.a9816fa09da3be4e5caf8897624eae72.js": "/react-monte/precache-manifest.a9816fa09da3be4e5caf8897624eae72.js",
+    "service-worker.js": "/react-monte/service-worker.js",
+    "static/css/main.5bb1bda5.chunk.css.map": "/react-monte/static/css/main.5bb1bda5.chunk.css.map",
+    "static/media/darkwing.jpg": "/react-monte/static/media/darkwing.2b1b25b3.jpg",
+    "static/media/gizmoduck.jpg": "/react-monte/static/media/gizmoduck.cd8575ef.jpg",
+    "static/media/gosalyn.png": "/react-monte/static/media/gosalyn.e6e66f29.png",
+    "static/media/honker.png": "/react-monte/static/media/honker.6611b665.png",
+    "static/media/launchpad.jpg": "/react-monte/static/media/launchpad.7f7317be.jpg",
+    "static/media/megavolt.png": "/react-monte/static/media/megavolt.4ab4c3ff.png",
+    "static/media/moliarty.png": "/react-monte/static/media/moliarty.963e5930.png",
+    "static/media/morgana.jpg": "/react-monte/static/media/morgana.36ee2192.jpg",
+    "static/media/negaduck.png": "/react-monte/static/media/negaduck.9328ac67.png",
+    "static/media/quackerjack.jpg": "/react-monte/static/media/quackerjack.bf464438.jpg",
+    "static/media/rubberchicken.png": "/react-monte/static/media/rubberchicken.9391d842.png",
+    "static/media/steelbeak.png": "/react-monte/static/media/steelbeak.5282d450.png"
+  }
+}
