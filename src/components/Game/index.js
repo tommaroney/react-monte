@@ -20,9 +20,9 @@ class Game extends React.Component {
                     () => setTimeout(
                         () => this.setState({background: "orange"}),
                             300));
-            });
                 if(this.state.current > this.state.highest)
                     this.setState({highest: this.state.current});
+            });
         }
         else {
             this.setState({current: 0,
