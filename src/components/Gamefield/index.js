@@ -77,10 +77,10 @@ class Gamefield extends React.Component {
                     <div className="row">
                         <div className="col s12 m10 offset-m1">
                             <div className="card-panel orange lighten-5">
-                                <h3>Win the game by clicking each image one time and only one time. A second click on any image that has previously been
+                                <h3 className="flow-text">Win the game by clicking each image one time and only one time. A second click on any image that has previously been
                                     clicked will restart your effort.</h3>
                                     <hr/>
-                                    <p>The scoreboard will flash red if you have clicked an image a second time, green if you click each image without
+                                    <p className="flow-text">The scoreboard will flash red if you have clicked an image a second time, green if you click each image without
                                         repeating.  Your highest score will be tracked in the upper-right corner.
                                     </p>
                             </div>
