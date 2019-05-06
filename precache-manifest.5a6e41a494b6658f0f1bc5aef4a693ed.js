@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "f652886685471fd283035034e79b9233",
+    "revision": "995779ac8f56e3ff93cd29f0a7b3ad77",
     "url": "/react-monte/index.html"
   },
   {
-    "revision": "28e199a7cd705b7b066a",
+    "revision": "4ed4b19f53f0f31ba280",
     "url": "/react-monte/static/css/main.7766f07b.chunk.css"
   },
   {
@@ -12,8 +12,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/react-monte/static/js/2.d6a534e5.chunk.js"
   },
   {
-    "revision": "28e199a7cd705b7b066a",
-    "url": "/react-monte/static/js/main.cb1028ac.chunk.js"
+    "revision": "4ed4b19f53f0f31ba280",
+    "url": "/react-monte/static/js/main.1a670500.chunk.js"
   },
   {
     "revision": "0f1a964312dcc1b4038f",
