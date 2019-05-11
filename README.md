@@ -1,5 +1,5 @@
 # React Monte!
-https://github.com/tommaroney/react-monte
+https://tommaroney.github.io/react-monte/
 
 ## Purpose 
 - A simple game to develop a deeper understanding of the structure of a React application with managed state.
