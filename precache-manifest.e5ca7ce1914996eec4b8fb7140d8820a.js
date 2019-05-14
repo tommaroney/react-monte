@@ -1,19 +1,19 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "af93c89df89757ced0afbdfd1e7df4a0",
+    "revision": "0bebd66ffee43c3f9994a3a0c3122321",
     "url": "/react-monte/index.html"
   },
   {
-    "revision": "99c4dc453276139ecdf4",
-    "url": "/react-monte/static/css/main.7766f07b.chunk.css"
+    "revision": "7441ae6b95c15ffed58b",
+    "url": "/react-monte/static/css/main.c7b743cb.chunk.css"
   },
   {
     "revision": "9eee67cf782a38d35aeb",
     "url": "/react-monte/static/js/2.d6a534e5.chunk.js"
   },
   {
-    "revision": "99c4dc453276139ecdf4",
-    "url": "/react-monte/static/js/main.b7364357.chunk.js"
+    "revision": "7441ae6b95c15ffed58b",
+    "url": "/react-monte/static/js/main.5312f8be.chunk.js"
   },
   {
     "revision": "0f1a964312dcc1b4038f",
@@ -22,6 +22,10 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "2b1b25b3904ca307ebd635176cc90f53",
     "url": "/react-monte/static/media/darkwing.2b1b25b3.jpg"
+  },
+  {
+    "revision": "8355591294fb2fdb351ebc172b1eb4e1",
+    "url": "/react-monte/static/media/dw-background.83555912.jpg"
   },
   {
     "revision": "cd8575eff4e2b1a4d7a6d7e1f016a3e8",
