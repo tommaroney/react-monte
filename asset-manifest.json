@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/react-monte/static/css/main.c7b743cb.chunk.css",
+    "main.css": "/react-monte/static/css/main.374dd316.chunk.css",
     "main.js": "/react-monte/static/js/main.5312f8be.chunk.js",
     "main.js.map": "/react-monte/static/js/main.5312f8be.chunk.js.map",
     "runtime~main.js": "/react-monte/static/js/runtime~main.f82523dd.js",
@@ -8,9 +8,9 @@
     "static/js/2.d6a534e5.chunk.js": "/react-monte/static/js/2.d6a534e5.chunk.js",
     "static/js/2.d6a534e5.chunk.js.map": "/react-monte/static/js/2.d6a534e5.chunk.js.map",
     "index.html": "/react-monte/index.html",
-    "precache-manifest.e5ca7ce1914996eec4b8fb7140d8820a.js": "/react-monte/precache-manifest.e5ca7ce1914996eec4b8fb7140d8820a.js",
+    "precache-manifest.db74a2782b9b2c1e70407025f9e7ab90.js": "/react-monte/precache-manifest.db74a2782b9b2c1e70407025f9e7ab90.js",
     "service-worker.js": "/react-monte/service-worker.js",
-    "static/css/main.c7b743cb.chunk.css.map": "/react-monte/static/css/main.c7b743cb.chunk.css.map",
+    "static/css/main.374dd316.chunk.css.map": "/react-monte/static/css/main.374dd316.chunk.css.map",
     "static/media/darkwing.jpg": "/react-monte/static/media/darkwing.2b1b25b3.jpg",
     "static/media/gameBoard.css": "/react-monte/static/media/dw-background.83555912.jpg",
     "static/media/gizmoduck.jpg": "/react-monte/static/media/gizmoduck.cd8575ef.jpg",
